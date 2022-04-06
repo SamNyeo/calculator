@@ -11,6 +11,7 @@
 #result {
   width: 200px;
   height: 60px;
+  text-align: right;
 }
 
 .row {
